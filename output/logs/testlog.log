@@ -1,0 +1,59 @@
+2023-02-13 17:07:22,528 - logger_File -INFO - User is on retail website
+2023-02-13 17:07:22,717 - logger_File -INFO - User searched for Pokemon item
+2023-02-13 17:07:22,828 - logger_File -INFO - Product is displayed
+2023-02-14 14:20:00,513 - logger_File -INFO - User is on retail website
+2023-02-14 14:20:00,772 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:20:00,885 - logger_File -INFO - Product is displayed
+2023-02-14 14:30:09,665 - logger_File -INFO - User is on retail website
+2023-02-14 14:30:09,894 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:30:10,015 - logger_File -INFO - Product is displayed
+2023-02-14 14:59:49,322 - logger_File -INFO - User is on retail website
+2023-02-14 14:59:49,539 - logger_File -INFO - User searched for Pokemon item
+2023-02-14 14:59:49,682 - logger_File -INFO - Product is displayed
+2023-02-15 16:19:09,163 - logger_File -INFO - User is on retail website
+2023-02-15 16:19:09,317 - logger_File -INFO - user clicked on Sign in Option
+2023-02-15 16:19:09,589 - logger_File -INFO - user entered email and password
+2023-02-15 16:19:09,679 - logger_File -INFO - user clicked on login button
+2023-02-15 16:19:10,153 - logger_File -INFO - user is logged in into Account
+2023-02-16 20:43:12,586 - logger_File -INFO - User is on retail website
+2023-02-16 20:43:12,992 - logger_File -INFO - user clicked on Sign in Option
+2023-02-16 20:43:17,154 - logger_File -INFO - user entered email and password
+2023-02-16 20:43:17,413 - logger_File -INFO - user clicked on login button
+2023-02-16 20:43:18,274 - logger_File -INFO - user is logged in into Account
+2023-02-16 20:47:04,231 - logger_File -INFO - User is on retail website
+2023-02-16 20:47:04,638 - logger_File -INFO - user clicked on Sign in Option
+2023-02-16 20:47:08,963 - logger_File -INFO - user entered email and password
+2023-02-16 20:47:09,392 - logger_File -INFO - user clicked on login button
+2023-02-16 20:47:10,153 - logger_File -INFO - user is logged in into Account
+2023-02-27 15:47:23,466 - logger_File -INFO - User is on retail website
+2023-02-27 15:47:23,955 - logger_File -INFO - User click on All section link
+2023-02-27 15:50:41,917 - logger_File -INFO - User is on retail website
+2023-02-27 15:50:42,568 - logger_File -INFO - User click on All section link
+2023-02-27 15:52:52,974 - logger_File -INFO - User is on retail website
+2023-02-27 15:52:53,649 - logger_File -INFO - User click on All section link
+2023-02-27 15:58:08,100 - logger_File -INFO - User is on retail website
+2023-02-27 15:58:08,535 - logger_File -INFO - User click on All section link
+2023-02-27 16:04:06,108 - logger_File -INFO - User is on retail website
+2023-02-27 16:04:06,661 - logger_File -INFO - User click on All section link
+2023-02-27 16:06:57,859 - logger_File -INFO - User is on retail website
+2023-02-27 16:06:58,509 - logger_File -INFO - User click on All section link
+2023-02-27 16:09:43,206 - logger_File -INFO - User is on retail website
+2023-02-27 16:09:43,472 - logger_File -INFO - User click on All section link
+2023-02-27 16:13:35,609 - logger_File -INFO - User is on retail website
+2023-02-27 16:13:36,000 - logger_File -INFO - User click on All section link
+2023-02-27 19:59:09,419 - logger_File -INFO - User is on retail website
+2023-02-27 19:59:09,753 - logger_File -INFO - User click on All section link
+2023-02-27 20:00:18,226 - logger_File -INFO - User is on retail website
+2023-02-27 20:00:18,621 - logger_File -INFO - User click on All section link
+2023-02-27 20:01:27,139 - logger_File -INFO - User is on retail website
+2023-02-27 20:01:27,583 - logger_File -INFO - User click on All section link
+2023-02-27 20:02:35,395 - logger_File -INFO - User is on retail website
+2023-02-27 20:02:35,628 - logger_File -INFO - User click on All section link
+2023-02-28 22:15:13,786 - logger_File -INFO - User is on retail website
+2023-02-28 22:15:14,297 - logger_File -INFO - User click on All section link
+2023-02-28 22:16:22,026 - logger_File -INFO - User is on retail website
+2023-02-28 22:16:22,466 - logger_File -INFO - User click on All section link
+2023-02-28 22:17:30,170 - logger_File -INFO - User is on retail website
+2023-02-28 22:17:30,491 - logger_File -INFO - User click on All section link
+2023-02-28 22:18:38,618 - logger_File -INFO - User is on retail website
+2023-02-28 22:18:38,983 - logger_File -INFO - User click on All section link

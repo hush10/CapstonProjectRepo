@@ -1,0 +1,59 @@
+2023-02-13 17:07:22,528 [main] INFO logger_File - User is on retail website
+2023-02-13 17:07:22,717 [main] INFO logger_File - User searched for Pokemon item
+2023-02-13 17:07:22,828 [main] INFO logger_File - Product is displayed
+2023-02-14 14:20:00,513 [main] INFO logger_File - User is on retail website
+2023-02-14 14:20:00,772 [main] INFO logger_File - User searched for Pokemon item
+2023-02-14 14:20:00,885 [main] INFO logger_File - Product is displayed
+2023-02-14 14:30:09,665 [main] INFO logger_File - User is on retail website
+2023-02-14 14:30:09,894 [main] INFO logger_File - User searched for Pokemon item
+2023-02-14 14:30:10,015 [main] INFO logger_File - Product is displayed
+2023-02-14 14:59:49,322 [main] INFO logger_File - User is on retail website
+2023-02-14 14:59:49,539 [main] INFO logger_File - User searched for Pokemon item
+2023-02-14 14:59:49,682 [main] INFO logger_File - Product is displayed
+2023-02-15 16:19:09,163 [main] INFO logger_File - User is on retail website
+2023-02-15 16:19:09,317 [main] INFO logger_File - user clicked on Sign in Option
+2023-02-15 16:19:09,589 [main] INFO logger_File - user entered email and password
+2023-02-15 16:19:09,679 [main] INFO logger_File - user clicked on login button
+2023-02-15 16:19:10,153 [main] INFO logger_File - user is logged in into Account
+2023-02-16 20:43:12,586 [main] INFO logger_File - User is on retail website
+2023-02-16 20:43:12,992 [main] INFO logger_File - user clicked on Sign in Option
+2023-02-16 20:43:17,154 [main] INFO logger_File - user entered email and password
+2023-02-16 20:43:17,413 [main] INFO logger_File - user clicked on login button
+2023-02-16 20:43:18,274 [main] INFO logger_File - user is logged in into Account
+2023-02-16 20:47:04,231 [main] INFO logger_File - User is on retail website
+2023-02-16 20:47:04,638 [main] INFO logger_File - user clicked on Sign in Option
+2023-02-16 20:47:08,963 [main] INFO logger_File - user entered email and password
+2023-02-16 20:47:09,392 [main] INFO logger_File - user clicked on login button
+2023-02-16 20:47:10,153 [main] INFO logger_File - user is logged in into Account
+2023-02-27 15:47:23,466 [main] INFO logger_File - User is on retail website
+2023-02-27 15:47:23,955 [main] INFO logger_File - User click on All section link
+2023-02-27 15:50:41,917 [main] INFO logger_File - User is on retail website
+2023-02-27 15:50:42,568 [main] INFO logger_File - User click on All section link
+2023-02-27 15:52:52,974 [main] INFO logger_File - User is on retail website
+2023-02-27 15:52:53,649 [main] INFO logger_File - User click on All section link
+2023-02-27 15:58:08,100 [main] INFO logger_File - User is on retail website
+2023-02-27 15:58:08,535 [main] INFO logger_File - User click on All section link
+2023-02-27 16:04:06,108 [main] INFO logger_File - User is on retail website
+2023-02-27 16:04:06,661 [main] INFO logger_File - User click on All section link
+2023-02-27 16:06:57,859 [main] INFO logger_File - User is on retail website
+2023-02-27 16:06:58,509 [main] INFO logger_File - User click on All section link
+2023-02-27 16:09:43,206 [main] INFO logger_File - User is on retail website
+2023-02-27 16:09:43,472 [main] INFO logger_File - User click on All section link
+2023-02-27 16:13:35,609 [main] INFO logger_File - User is on retail website
+2023-02-27 16:13:36,000 [main] INFO logger_File - User click on All section link
+2023-02-27 19:59:09,419 [main] INFO logger_File - User is on retail website
+2023-02-27 19:59:09,753 [main] INFO logger_File - User click on All section link
+2023-02-27 20:00:18,226 [main] INFO logger_File - User is on retail website
+2023-02-27 20:00:18,621 [main] INFO logger_File - User click on All section link
+2023-02-27 20:01:27,139 [main] INFO logger_File - User is on retail website
+2023-02-27 20:01:27,583 [main] INFO logger_File - User click on All section link
+2023-02-27 20:02:35,395 [main] INFO logger_File - User is on retail website
+2023-02-27 20:02:35,628 [main] INFO logger_File - User click on All section link
+2023-02-28 22:15:13,786 [main] INFO logger_File - User is on retail website
+2023-02-28 22:15:14,297 [main] INFO logger_File - User click on All section link
+2023-02-28 22:16:22,026 [main] INFO logger_File - User is on retail website
+2023-02-28 22:16:22,466 [main] INFO logger_File - User click on All section link
+2023-02-28 22:17:30,170 [main] INFO logger_File - User is on retail website
+2023-02-28 22:17:30,491 [main] INFO logger_File - User click on All section link
+2023-02-28 22:18:38,618 [main] INFO logger_File - User is on retail website
+2023-02-28 22:18:38,983 [main] INFO logger_File - User click on All section link
